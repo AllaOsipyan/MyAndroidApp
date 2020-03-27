@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="new_coffee" > Hello </string>
+    <string name="pause">Отложенные</string>
+    <string name="favourites">Избранные</string>
+    <string name="age">Возраст</string>
+    <string name="books_title" />
+</resources>
