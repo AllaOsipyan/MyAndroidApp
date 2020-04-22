@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/derred"
+        android:icon="@drawable/ic_import_contacts_24px"
+        android:title="@string/pause"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/favourites"
+        android:icon="@drawable/ic_star_border_24px"
+        android:title="@string/favourites"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/user_age"
+        android:icon="@drawable/ic_perm_identity_24px"
+        android:title="@string/age"
+        app:showAsAction="ifRoom" />
+</menu>
